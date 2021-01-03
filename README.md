@@ -7,6 +7,12 @@ Join https://t.me/XtraTgBot for updates and tuts
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
+
+p align="center">
+<a href = "https://heroku.com/deploy?template=https://github.com/gangsterkimng/X-tra-Telegram"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a></p>
+<br>
+
+
 ### UniBorg Configuration
 
 The UniBorg Config is situated in `userbot/uniborgConfig.py`.
